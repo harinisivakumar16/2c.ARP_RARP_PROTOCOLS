@@ -54,8 +54,7 @@ while True:
 
 ![Output](Screenshot%202026-03-13%20141340.png)
 ![Output](Screenshot%202026-03-13%20141353.png)
-![Output](Screenshot%202026-03-13%20141408.png)
-![Output](Screenshot%202026-03-13%20141423.png)
+
 
 ## PROGRAM - RARP
 
